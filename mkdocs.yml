@@ -1,0 +1,17 @@
+site_name: My Docs
+site_name: Travel Plan Nice
+theme:
+  name: readthedocs
+
+nav:
+  - Startseite: index.md
+  - Anniversary: Anniversary.md
+  - Travel Days:
+      - Tag 1 – Monday (Monaco): Day_1_Monday.md
+      - Tag 2 – Tuesday (Cannes): Day_2_Tuesday.md
+      - Tag 3 – Wednesday (Grasse): Day_3_Wednesday.md
+      - Tag 4 – Thursday (Menton): Day_4_Thursday.md
+      - Tag 5 – Friday (Beaulieu-sur-Mer): Day_5_Friday.md
+      - Tag 6 – Saturday (Saint-Paul & Tourrettes): Day_6_Saturday.md
+      - Tag 7 – Sunday (Cap d’Ail): Day_7_Sunday.md
+      - Tage 9–18 – Relax in Nice: Day_9-18_Nice.md
